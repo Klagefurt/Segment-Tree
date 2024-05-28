@@ -1,0 +1,1 @@
+The segment tree is a type of data structure from computational geometry. Bentley proposed this well-known technique in 1977. A segment tree is essentially a binary tree in whose nodes we store the information about the segments of a linear data structure such as an array.
